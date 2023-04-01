@@ -1,2 +1,1 @@
-# PrepCourse
-Repositorio para el modulo2 del prepcourse de henry
+Repositorio de practica para el modulo 2 del prepcourse de henry!
